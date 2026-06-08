@@ -59,8 +59,8 @@ A document retrieval and question-answering platform for knowledge workflows.
 ## <img src="https://cdn.simpleicons.org/githubactions/60a5fa" height="20" align="center" alt="Stats" /> GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Xcaesar1&show_icons=true&theme=tokyonight&hide_border=true" alt="Caesar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xcaesar1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xcaesar1&theme=github_dark" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xcaesar1&theme=github_dark" alt="Top languages by commit" />
 </p>
 
 <p align="center">
