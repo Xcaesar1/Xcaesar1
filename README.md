@@ -63,7 +63,7 @@ A document retrieval and question-answering platform for knowledge workflows.
 </p>
 
 <p align="center">
-  <img width="49%" height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xcaesar1&theme=github_dark&utcOffset=8" alt="Productive time" />
+  <img width="49%" height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Xcaesar1&bg_color=0d1117&color=70a5fd&title_color=70a5fd&line=22c55e&point=22c55e&area=true&area_color=22c55e&hide_border=false&radius=5&height=165&days=30&custom_title=Last%2030%20Days%20Activity" alt="Last 30 days activity graph" />
   <img width="49%" height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xcaesar1&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&card_width=390" alt="Most used languages" />
 </p>
 
