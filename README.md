@@ -72,7 +72,7 @@ A document retrieval and question-answering platform for knowledge workflows.
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/contribution-summary.svg" alt="GitHub contribution summary from February 2026" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xcaesar1&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 ---
