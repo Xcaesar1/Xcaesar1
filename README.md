@@ -64,15 +64,11 @@ A document retrieval and question-answering platform for knowledge workflows.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xcaesar1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xcaesar1&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Xcaesar1&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xcaesar1&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 ---
