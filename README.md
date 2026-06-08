@@ -63,8 +63,8 @@ A document retrieval and question-answering platform for knowledge workflows.
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xcaesar1&theme=github_dark&utcOffset=8" alt="Productive time" />
-  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xcaesar1&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&card_width=390" alt="Most used languages" />
+  <img width="49%" height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xcaesar1&theme=github_dark&utcOffset=8" alt="Productive time" />
+  <img width="49%" height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xcaesar1&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&card_width=390" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@ A document retrieval and question-answering platform for knowledge workflows.
 </h2>
 
 <p align="center">
-  Email: <a href="mailto:god3kill@163.com"><code>god3kill@163.com</code></a>
+  &bull; Email: <a href="mailto:god3kill@163.com"><code>god3kill@163.com</code></a>
   <br />
-  GitHub: <a href="https://github.com/Xcaesar1">@Xcaesar1</a>
+  &bull; GitHub: <a href="https://github.com/Xcaesar1">@Xcaesar1</a>
   <br />
-  Bilibili: <a href="https://space.bilibili.com/107019506">Caesar</a>
+  &bull; Bilibili: <a href="https://space.bilibili.com/107019506">Caesar</a>
 </p>
 
 ---
