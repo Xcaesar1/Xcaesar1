@@ -15,7 +15,7 @@
 
 # Hi there, I'm Caesar
 
-Graduate of Hubei Engineering University | AI / LLM application learner
+god3kill@163.com | AI / LLM application learner
 
 I am interested in building practical AI products that connect language models with real workflows. My current focus includes AI chat, document question answering, full-stack applications, open-source learning, knowledge-base systems, digital human experiments, and automation.
 
@@ -72,7 +72,7 @@ A document retrieval and question-answering platform for knowledge workflows.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xcaesar1&theme=github_dark" alt="GitHub profile summary" />
+  <img width="100%" src="./assets/contribution-summary.svg" alt="GitHub contribution summary from February 2026" />
 </p>
 
 ---
