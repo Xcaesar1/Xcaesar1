@@ -59,12 +59,12 @@ A document retrieval and question-answering platform for knowledge workflows.
 ## <img src="https://cdn.simpleicons.org/githubactions/60a5fa" height="20" align="center" alt="Stats" /> GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xcaesar1&theme=nord_dark" alt="GitHub profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xcaesar1&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xcaesar1&theme=nord_dark&utcOffset=8" alt="Productive time" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xcaesar1&layout=compact&theme=tokyonight&hide_border=true&card_width=390" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xcaesar1&theme=github_dark&utcOffset=8" alt="Productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xcaesar1&theme=github_dark" alt="Top languages by commit" />
 </p>
 
 <p align="center">
