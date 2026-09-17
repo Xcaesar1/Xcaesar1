@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=180&section=header&text=Hi,%20I%27m%20Caesar&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=AI%20/%20LLM%20Application%20Learner&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=180&section=header&text=Hi,%20I%27m%20Caesar&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
 </p>
 
 <p align="center">
@@ -11,23 +11,23 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Xcaesar1&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-AI%20Applications-22c55e?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-f59e0b?style=flat-square" alt="Open to opportunities" />
 </p>
 
 # 👋Hi there, I'm Caesar
 
-god3kill@163.com | AI / LLM application learner
+[god3kill@163.com](mailto:god3kill@163.com) | AI Application Developer | Full-Stack Engineer
 
-I am interested in building practical AI products that connect language models with real workflows. My current focus includes AI chat, document question answering, full-stack applications, open-source learning, knowledge-base systems, digital human experiments, and automation.
+I build practical AI products that connect language models with real workflows. My work spans LLM agents, document intelligence, knowledge-base systems, AI image editing, full-stack applications, and automation. I am currently open to opportunities in AI application and full-stack engineering.
 
 ---
 
-## <img src="https://cdn.simpleicons.org/googlegemini/22c55e" height="20" align="center" alt="AI" /> What I'm Exploring
+## <img src="https://cdn.simpleicons.org/googlegemini/22c55e" height="20" align="center" alt="AI" /> What I Build
 
-- AI chat assistants that feel useful, responsive, and easy to extend.
-- Document retrieval and question answering powered by RAG workflows.
-- Knowledge-base tools for organizing notes, documents, and learning materials.
-- Full-stack products with TypeScript, React, Node.js, and Python.
-- Digital human and automation experiments for practical daily workflows.
+- Reliable LLM agents with typed workflows, validation, and human review.
+- Document intelligence and RAG systems for practical knowledge workflows.
+- Full-stack AI products built with TypeScript, React or Vue, and Python.
+- Image editing, digital human, and automation tools for real user needs.
 
 ---
 
@@ -36,8 +36,16 @@ I am interested in building practical AI products that connect language models w
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/LLM-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
   <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square&logo=readthedocs&logoColor=white" alt="RAG" />
 </p>
@@ -46,13 +54,14 @@ I am interested in building practical AI products that connect language models w
 
 ## <img src="https://cdn.simpleicons.org/github/8b949e" height="20" align="center" alt="Projects" /> Featured Projects
 
-### [ai-chat](https://github.com/Xcaesar1/ai-chat)
-
-An AI chat assistant exploration built with TypeScript and modern web tooling.
-
-### [DRQA](https://github.com/Xcaesar1/DRQA)
-
-A document retrieval and question-answering platform for knowledge workflows.
+<p align="center">
+  <a href="https://github.com/Xcaesar1/JourneyGo">
+    <img width="49%" src="./assets/project-cards/journeygo.svg" alt="JourneyGo project card" />
+  </a>
+  <a href="https://github.com/Xcaesar1/PixAgent">
+    <img width="49%" src="./assets/project-cards/pixagent.svg" alt="PixAgent project card" />
+  </a>
+</p>
 
 ---
 
